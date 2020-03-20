@@ -11,3 +11,8 @@ h2{
 p{
     color: #222222;
 }
+
+.footer {
+    padding: 50px 0;
+    background-color: #222222;
+}
